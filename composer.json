@@ -6,5 +6,11 @@
 			"name" : "oyzmer",
 			"email" : "o.yyyy@qq.com"
 		}
-	]
+	],
+	"require": {},
+    "autoload": {
+        "psr-4": {
+            "Oyzmer\\Utils\\": "src/"
+        }
+    }
 }
