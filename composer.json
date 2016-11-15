@@ -1,0 +1,10 @@
+{
+	"name" : "oyzmer/php-utils",
+	"description" : "This is php utils",
+	"license" : "v1.0",
+	"authors" : [{
+			"name" : "oyzmer",
+			"email" : "o.yyyy@qq.com"
+		}
+	]
+}
